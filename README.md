@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact:
 
-- **Jaman**: [Your Email Address]
+- **Jaman**: [zamaan.md19@gmail.com](mailto:zamaan.md19@gmail.com)
 - **WhatsApp**: [+8801673850025](https://wa.me/8801673850025)
 
 ## Acknowledgements
